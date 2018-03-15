@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D5A928B4-E25C-4EC1-B106-C8FA42C0FA1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeavingCalculator/Models/Recipe.cs">
+    <Files>
+      <File FileName="WeavingCalculator/Models/Recipe.cs" Line="57" Column="13" />
+      <File FileName="WeavingCalculator/Models/PossibleLength.cs" Line="17" Column="6" />
+      <File FileName="WeavingCalculator/Models/ClothCalc.cs" Line="15" Column="10" />
+      <File FileName="WeavingCalculator/Models/YarnUsage.cs" Line="13" Column="2" />
+      <File FileName="WeavingCalculator/Models/YardageWeight.cs" Line="11" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeavingCalculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C6CB564D-6C87-45A9-BD75-CFDA4DFF4B6E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.WeavingCalculator.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
